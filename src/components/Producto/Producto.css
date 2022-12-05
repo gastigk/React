@@ -1,0 +1,20 @@
+.producto {
+    max-width: 500px;
+    display: flex;
+    gap: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 30px;
+    border: 1px solid #000;
+}
+
+.producto__img {
+    width: 50%;
+}
+
+.producto__content {
+    width: 50%;
+    padding: 20px;
+    text-align: center;
+}
+
